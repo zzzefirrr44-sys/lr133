@@ -1,0 +1,53 @@
+{
+    "title": "Магазин моніторів",
+    "products": [
+        {
+            "id": 1,
+            "name": "Samsung Odyssey G5",
+            "category": "Монітори",
+            "price": 10999,
+            "description": "Ігровий монітор із вигнутим екраном 27 дюймів, роздільною здатністю QHD та частотою оновлення 165 Гц.",
+            "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=900&q=85"
+        },
+        {
+            "id": 2,
+            "name": "LG UltraGear 24GN60R",
+            "category": "Монітори",
+            "price": 7499,
+            "description": "24-дюймовий ігровий монітор із IPS-матрицею, Full HD та частотою оновлення 144 Гц.",
+            "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=900&q=85"
+        },
+        {
+            "id": 3,
+            "name": "ASUS TUF Gaming VG27AQ",
+            "category": "Монітори",
+            "price": 13999,
+            "description": "27-дюймовий монітор із роздільною здатністю QHD, IPS-матрицею та плавним зображенням.",
+            "image": "https://images.unsplash.com/photo-1585792180666-f7347c490ee2?auto=format&fit=crop&w=900&q=85"
+        },
+        {
+            "id": 4,
+            "name": "AOC 24G2SP",
+            "category": "Монітори",
+            "price": 6799,
+            "description": "Універсальний 24-дюймовий монітор із IPS-екраном та частотою оновлення 165 Гц.",
+            "image": "https://images.unsplash.com/photo-1616763355548-1b606f439f86?auto=format&fit=crop&w=900&q=85"
+        },
+        {
+            "id": 5,
+            "name": "Dell UltraSharp U2723QE",
+            "category": "Монітори",
+            "price": 21999,
+            "description": "Професійний 27-дюймовий монітор із чітким 4K-зображенням для роботи та творчості.",
+            "image": "https://images.unsplash.com/photo-1520219158507-7b4c1a5e4f13?auto=format&fit=crop&w=900&q=85"
+        },
+        {
+            "id": 6,
+            "name": "Xiaomi Mi Desktop Monitor 1C",
+            "category": "Монітори",
+            "price": 4999,
+            "description": "Тонкий 23,8-дюймовий монітор із Full HD та IPS-матрицею для щоденної роботи.",
+            "image": "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=900&q=85"
+        }
+    ]
+}
